@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "BAOS: Benchmark-Aware Objective Selection toolbox and reproduction code"
+version: 1.0.0
+date-released: 2026-10-01
+license: MIT
+authors:
+  - family-names: Mukuna
+    given-names: Jean Gad Mubala
+    affiliation: "Department of Mechanical Engineering, Mangosuthu University of Technology"
+    orcid: "https://orcid.org/0000-0001-5717-8246"
+    email: mukunaj@mut.ac.za
+keywords:
+  - multi-objective optimization
+  - objective redundancy
+  - benchmark attainment
+  - Pareto analysis
+  - MATLAB
+  - GNU Octave
+preferred-citation:
+  type: article
+  title: "When does a benchmark-relative objective change the optimum? Theory and a resolution-aware independence test for multi-objective design"
+  authors:
+    - family-names: Mukuna
+      given-names: Jean Gad Mubala
+      orcid: "https://orcid.org/0000-0001-5717-8246"
+  journal: "Structural and Multidisciplinary Optimization"
+  status: submitted
+  year: 2026

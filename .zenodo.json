@@ -1,0 +1,9 @@
+{
+  "title": "BAOS: Benchmark-Aware Objective Selection toolbox and reproduction code",
+  "upload_type": "software",
+  "description": "MATLAB/GNU Octave toolbox implementing the Benchmark Objective Independence Test (BOIT), together with the complete code, results and scripts that reproduce every table and figure of the article 'When does a benchmark-relative objective change the optimum? Theory and a resolution-aware independence test for multi-objective design' (submitted to Structural and Multidisciplinary Optimization).",
+  "creators": [{"name": "Mukuna, Jean Gad Mubala", "affiliation": "Mangosuthu University of Technology", "orcid": "0000-0001-5717-8246"}],
+  "license": "MIT",
+  "keywords": ["multi-objective optimization", "objective redundancy", "benchmark attainment", "Pareto analysis", "MATLAB", "GNU Octave"],
+  "version": "1.0.0"
+}
