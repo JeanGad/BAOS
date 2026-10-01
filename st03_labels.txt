@@ -1,0 +1,26 @@
+brayton / AT
+brayton / AA
+hx / A
+solar / A1
+solar / A2
+--
+brayton / AT / conventional optimum (max P)
+brayton / AT / benchmark optimum (max AT)
+brayton / AT / TOPSIS compromise, conventional front
+brayton / AT / TOPSIS compromise, benchmark-aware front
+brayton / AA / conventional optimum (max P)
+brayton / AA / benchmark optimum (max AA)
+brayton / AA / TOPSIS compromise, conventional front
+brayton / AA / TOPSIS compromise, benchmark-aware front
+hx / A / conventional optimum (max P)
+hx / A / benchmark optimum (max A)
+hx / A / TOPSIS compromise, conventional front
+hx / A / TOPSIS compromise, benchmark-aware front
+solar / A1 / conventional optimum (max P)
+solar / A1 / benchmark optimum (max A1)
+solar / A1 / TOPSIS compromise, conventional front
+solar / A1 / TOPSIS compromise, benchmark-aware front
+solar / A2 / conventional optimum (max P)
+solar / A2 / benchmark optimum (max A2)
+solar / A2 / TOPSIS compromise, conventional front
+solar / A2 / TOPSIS compromise, benchmark-aware front
